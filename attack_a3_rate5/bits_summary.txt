@@ -1,0 +1,8 @@
+﻿Experiment: attack_a3_rate5
+Start Time: 2026-03-06T13:01:04
+End Time: 2026-03-06T13:01:49
+Duration: 45.1 seconds
+Bytes Transferred: 524288000
+MB Transferred: 500
+Average Throughput: 93.06 Mbps
+Final State: 
