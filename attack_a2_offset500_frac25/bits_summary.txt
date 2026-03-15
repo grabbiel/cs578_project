@@ -1,0 +1,8 @@
+﻿Experiment: attack_a2_offset500_frac25
+Start Time: 2026-03-06T12:49:06
+End Time: 2026-03-06T12:49:45
+Duration: 39 seconds
+Bytes Transferred: 524288000
+MB Transferred: 500
+Average Throughput: 107.65 Mbps
+Final State: 
