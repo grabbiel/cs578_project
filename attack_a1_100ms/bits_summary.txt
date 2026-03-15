@@ -1,0 +1,8 @@
+﻿Experiment: attack_a1_100ms
+Start Time: 2026-03-06T12:27:06
+End Time: 2026-03-06T12:27:34
+Duration: 27.9 seconds
+Bytes Transferred: 524288000
+MB Transferred: 500
+Average Throughput: 150.35 Mbps
+Final State: 
